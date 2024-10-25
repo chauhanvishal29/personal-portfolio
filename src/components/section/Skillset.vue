@@ -1,28 +1,28 @@
 <script setup>
 const skillset = [
     {
-        'skill': 'HTML',
+        'skill': 'Laravel',
         'year': 4
     },
     {
-        'skill': 'CSS',
+        'skill': 'VueJS',
+        'year': 1
+    },
+    {
+        'skill': 'Core PHP',
         'year': 4
     },
     {
         'skill': 'JavaScript',
-        'year': 4
+        'year': 3
     },
     {
-        'skill': 'Accessibility',
-        'year': 4
+        'skill': 'HTML',
+        'year': 3.5
     },
     {
-        'skill': 'React',
-        'year': 4
-    },
-    {
-        'skill': 'Sass',
-        'year': 4
+        'skill': 'CSS',
+        'year': 3
     },
 ];
 

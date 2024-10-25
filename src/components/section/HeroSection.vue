@@ -1,5 +1,5 @@
 <script setup>
-    import DesktopImg from '../../assets/image/image-profile-desktop.webp'
+    import DesktopImg from '../../assets/image/vishal-bg.jpg'
     const skillset = [
         {
             'image': 'HTML',
@@ -32,7 +32,7 @@
     <section class="pt-32 pb-52 flex relative max-w-[1110px] w-full mx-auto">
         <div class="w-[710px]">
             <h1 class="text-7xl mt-0 mb-16 mx-auto text-white font-bold leading-[72px] tracking-[0.05rem]"> Nice to
-                meet you! I'm <span class="border-b-4">Adam Keyes</span>. </h1>
+                meet you! I'm <span class="border-b-4">Vishal Chauhan</span>. </h1>
             <p class="text-white mb-16 max-w-md font-medium text-lg tracking-normal"> Based in the UK, I'm a front-end developer passionate about
                 building accessible web apps that users love. </p>
             <app-link class="text-white" href="#contact-form">
