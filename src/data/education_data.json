@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "college": "Indira Gandhi National Open University",
+        "degree": "Master's Degree in Computer Application",
+        "year": "2023 - Present",
+        "description": "Currently pursuing a Marster's Degree in Computer Applications at Indira Gandhi National Open University (2023 - Present), where I am enhancing my skills in programming, software development, and information technology."
+    },
+    {
+        "id": 1,
+        "college": "Bhakta Kavi Narsinh Mehta University",
+        "degree": "Bachelor's Degree in Computer Application",
+        "year": "June 2018 - 2020",
+        "description": "Bachelor's Degree in Computer Applications from Bhakta Kavi Narsinh Mehta University (2018-2020), with a focus on programming, software development, and foundational web technologies."
+    }
+]

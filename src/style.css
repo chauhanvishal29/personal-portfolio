@@ -5,3 +5,11 @@
 body {
   @apply font-space;
 }
+
+.custom-before-height::before {
+  height: calc(100% - calc(0.5 * calc(6.2rem * 1)));
+}
+
+.custom-before-top::before {
+  top: calc(0.5 * calc(3.2rem * 1))
+}

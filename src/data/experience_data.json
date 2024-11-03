@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "company": "Acquaint Softtech Private Limited",
+        "position": "Senior Software Engineer",
+        "year": "Augest 2023 - Present",
+        "description": "As a Senior Software Developer, I specialize in PHP Laravel development and have led multiple projects, advancing my technical skills across backend development, CMS platforms, and API management. At Tryko Technologies, I served as the backend developer for Tryko App, where I built APIs in Laravel, developed admin modules for driver and customer data, integrated coupon code functionality, and gained expertise in push notifications and Redis server management. For the NEOM project, I led the implementation using Drupal CMS, mastering complex features with hooks, content types, views, and blocks to enhance site structure and organization. I also contributed to ArborXR by designing a personalized backend using the latest Laravel Filament admin panel, implementing customized features to meet specific client needs."
+    },
+    {
+        "id": 1,
+        "company": "Cypherox Technology",
+        "position": "Software Trainee",
+        "year": "March 2021 - July 2023",
+        "description": "Junior Web Developer with two years of experience at Cypherox Technologies, where I built a diverse range of web projects, including an e-card gifting platform using the Tango Card API with Stripe integration, and several real estate websites featuring property comparisons, wishlist functionality, and brochure downloads. Skilled in Laravel and JavaScript, I developed admin modules for product management, CMS pages, and integrated third-party APIs from Giphy, Mailchimp, and Twilio for enhanced functionality. Starting as an intern, I quickly progressed to live projects, gaining strong backend expertise in PHP and front-end skills in HTML, CSS, and jQuery."
+    },
+    {
+        "id": 1,
+        "company": "Cypherox Technology",
+        "position": "Software Trainee",
+        "year": "january 2021 - March 2021",
+        "description": "As a Web Developer Intern at Cypherox Technologies, I quickly gained foundational skills in HTML, CSS, and JavaScript, while also beginning backend development with PHP. Starting with small tasks on in-house projects, I advanced rapidly and, within two and a half months, transitioned to working on live projects, where I developed hands-on experience contributing to real-world applications."
+    }
+]
