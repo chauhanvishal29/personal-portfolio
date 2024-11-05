@@ -38,7 +38,7 @@
         <div class="max-w-[450px] md:text-left md:w-[505px] max-auto text-center m-auto md:m-0">
             <h1 class="md:text-7xl text-[40px] mt-0 mb-8 md:mb-16 mx-auto text-white font-bold md:leading-[72px] leading-[45px] md:text-left text-center tracking-[0.05rem]"> Nice to
                 meet you! I'm <span class="border-b-4">Vishal Chauhan</span>. </h1>
-            <p class="text-white max-auto m-auto mb-8 md:mb-16 lg:max-w-lg font-medium text-base md:text-lg tracking-normal"> Based in the UK, I'm a front-end developer passionate about
+            <p class="text-white max-auto m-auto mb-8 md:mb-16 lg:max-w-lg font-medium text-base md:text-lg tracking-normal"> Based in the India, I'm a full-stack developer passionate about
                 building accessible web apps that users love. </p>
             <app-link class="text-white" href="#contact-form">
                 <a class="no-underline border-b-2 uppercase text-white transition-all duration-[0.2s] ease-linear text-base font-bold tracking-[2.2px] pb-[10px]">Contact me</a>

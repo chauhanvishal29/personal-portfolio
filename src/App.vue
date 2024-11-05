@@ -11,7 +11,7 @@ import Experience from './components/section/Experience.vue';
     <Header />
     <HeroSection />
     <Skillset />
-    <ProjectSection />
+    <!-- <ProjectSection /> -->
     <Experience />
     <ContactSection />
 </template>
